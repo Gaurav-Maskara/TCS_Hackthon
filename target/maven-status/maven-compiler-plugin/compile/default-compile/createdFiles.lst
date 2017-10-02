@@ -1,0 +1,3 @@
+com\tcs\hackthon\dao\AzureDao.class
+com\tcs\hackthon\controller\WebController.class
+com\tcs\hackthon\bean\Feedback.class
